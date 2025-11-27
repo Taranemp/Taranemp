@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**Taranemp/Taranemp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+About Me  
+I'm a backend developer specializing in Django and Django REST Framework.  
+Currently, I'm learning React to become a full-stack developer. I enjoy building clean, scalable backend systems and exploring modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies & Skills
+
+Backend  
+- Python  
+- Django  
+- Django REST Framework  
+- REST API Design  
+- SQLite / PostgreSQL  
+
+Frontend  
+- React (learning)  
+- HTML / CSS / JavaScript  
+
+Tools  
+- Git & GitHub  
+- VS Code  
+- Postman  
+- Virtual Environments  
+
+What I'm Working On  
+- Improving backend architecture skills  
+- Learning React for full-stack development  
+- Building small personal projects to practice APIs and UI development  
+
+Contact  
+Add your email or social links here.
