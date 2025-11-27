@@ -1,32 +1,30 @@
-
-
-About Me  
+**About Me**  
 I'm a backend developer specializing in Django and Django REST Framework.  
 Currently, I'm learning React to become a full-stack developer. I enjoy building clean, scalable backend systems and exploring modern web technologies.
 
-Technologies & Skills
+**Technologies & Skills**
 
-Backend  
+**Backend**  
 - Python  
 - Django  
 - Django REST Framework  
 - REST API Design  
 - SQLite / PostgreSQL  
 
-Frontend  
+**Frontend**  
 - React (learning)  
 - HTML / CSS / JavaScript  
 
-Tools  
+**Tools**  
 - Git & GitHub  
 - VS Code  
 - Postman  
 - Virtual Environments  
 
-What I'm Working On  
+**What I'm Working On**  
 - Improving backend architecture skills  
 - Learning React for full-stack development  
 - Building small personal projects to practice APIs and UI development  
 
-Contact  
+**Contact**  
 Add your email or social links here.
