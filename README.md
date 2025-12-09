@@ -1,6 +1,5 @@
 **About Me**  
 I'm a backend developer specializing in Django and Django REST Framework.  
-Currently, I'm learning React to become a full-stack developer. I enjoy building clean, scalable backend systems and exploring modern web technologies.
 
 **Technologies & Skills**
 
