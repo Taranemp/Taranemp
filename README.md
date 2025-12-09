@@ -6,7 +6,8 @@ I'm a backend developer specializing in Django and Django REST Framework.
 **Backend**  
 - Python  
 - Django  
-- Django REST Framework  
+- Django REST Framework
+- Database:
 - REST API Design  
 - SQLite / PostgreSQL  
 
