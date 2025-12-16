@@ -6,10 +6,25 @@ I'm a backend developer specializing in Django and Django REST Framework.
 **Backend**  
 - Python  
 - Django  
-- Django REST Framework
-- Database:
-- REST API Design  
-- SQLite / PostgreSQL  
+- Django REST Framework  
+- Celery  
+
+**Databases**  
+- MySQL  
+- SQLite  
+- Redis  
+
+**DevOps**  
+- Docker  
+- Apache  
+- Nginx  
+
+**Tools**  
+- Git & GitHub  
+- VS Code  
+- Postman  
+- Virtual Environments  
+- FileZilla  
 
 **Frontend**  
 - React (learning)  
